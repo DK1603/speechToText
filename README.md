@@ -17,7 +17,8 @@ Before running the program, you need to set the path to the Vosk model you downl
 
 `model_path = "/enter/your/path/to/model"`
 
-## Finally run your Python program in terminal
+## Additional Notes
+To exit the program, simply say "exit" when using the English model. This voice command will terminate the speech recognition loop and close the application.
 
 
 
